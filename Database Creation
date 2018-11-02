@@ -1,0 +1,10 @@
+Create a database called multi_login. 
+Create a table called users 
+with the following fields:
+
+
+id 
+username - varchar(30)
+email - varchar(30)
+user_type - varchar(30)
+password - varchar(30)
